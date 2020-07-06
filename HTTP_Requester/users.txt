@@ -1,0 +1,8 @@
+7
+{Michael|9901|You are not able to instantiate object because you've made constructor private|Young, self-taught programmer, currently unemployed}
+{Anne|130921|I've had this problem before, happened because I forgot to check if the object is null|Went to TU Munchen, currenly involved in a Google internship}
+{John|6115|When making an HTTP request, is good practice putting the code into a try/catch statement|Student, hobbies such as playing guitar, tennis}
+{Dennis|17765|I'm afraid multiple-inheritance is not allowed in C#, maybe try to implement and interface|Freelancer from Bucharest}
+{Mary|10216|Static methods could access only static fields from a class, keep in mind next time|Web-developer}
+{Alex|8940|There is no point writing the 10 different method names for these, try overloading|Mobile-programmer}
+{Alice|9021|When performing network requests is advised to offset the workload on background thread|Linux-passionate,21,Poland}
